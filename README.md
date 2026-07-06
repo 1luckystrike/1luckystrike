@@ -1,3 +1,2 @@
 <div id="header" align="center"> 
-<img src="https://files.catbox.moe/45jild.png" alt="alt text" width="xxx">
-I'll finish this tomorrow
+<img src="https://files.catbox.moe/p78g1z.jpg" alt="alt text" width="800">
